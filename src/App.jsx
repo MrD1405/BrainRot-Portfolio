@@ -8,7 +8,7 @@ function App() {
   
   return(
     
-      <div className="absolute flex flex-row w-full justify-between items-center ">
+      <div className="top-0 left-0 flex flex-row min-w-screen h-screen justify-between items-center ">
         <SubwaySurfer />
         <Tile/>
         <SubwaySurfer />
