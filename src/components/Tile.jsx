@@ -21,7 +21,8 @@ const Tile =()=>{
                         
                     </div>
                     <div className="flex items-center justify-center h-[20%] bg-white">
-                        <ActionButton/>
+                        <ActionButton action="accept"/>
+                        <ActionButton action="reject"/>
                     </div>
                 </div>
             </div>
